@@ -11,6 +11,19 @@ I have always been a critical thinker 🧠. I enjoy problems that require deep t
 
 I am excited to continue learning and creating solutions! 🤩🎉
 
+## Skills
+
+- Adobe Illustrator 🎨
+- Adobe Indesign 📐
+- Figma 💻
+- Canva 🎨
+- HTML 🌐
+- CSS 🎨
+- JavaScript 💻
+- Flutter 📱
+- Python 🐍
+- Swift 🍎
+
 <!--
 **bibhushansaakha/bibhushansaakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
