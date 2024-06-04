@@ -22,7 +22,6 @@ I am excited to continue learning and creating solutions! 🤩🎉
 - JavaScript 💻
 - Flutter 📱
 - Python 🐍
-- Swift 🍎
 
 <!--
 **bibhushansaakha/bibhushansaakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
