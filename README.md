@@ -10,7 +10,7 @@ I have a passion for technology and programming 💻, so I pursue a Computer Eng
 I have always been a critical thinker 🧠. I enjoy problems that require deep thought and analysis. From Chess to a National Record in Blindfolded Cube Solving. 
 
 I am excited to continue learning and creating solutions! 🤩🎉
-
+<!--
 ## Skills
 
 - Adobe Illustrator 🎨
@@ -23,7 +23,7 @@ I am excited to continue learning and creating solutions! 🤩🎉
 - Flutter 📱
 - Python 🐍
 
-<!--
+
 **bibhushansaakha/bibhushansaakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
