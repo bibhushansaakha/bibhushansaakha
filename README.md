@@ -80,8 +80,6 @@ Here are some ideas to get you started:
 <!--profile visit count-->
 <div align="center">
   
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=bibhushansaakha&label=Profile%20Views&color=1&icon=3&pretty=true"/>
-</a>
+
   
 </div>
