@@ -9,7 +9,7 @@ I have a passion for technology and programming 💻, so I pursue a Computer Eng
 
 I have always been a critical thinker 🧠. I enjoy problems that require deep thought and analysis. From Chess to a National Record in Blindfolded Cube Solving. 
 
-I am excited to continue learning and creating solutions! 🤩🎉
+I am excited to continue learning and creating solutions! 🤩
 <!--
 ## Skills
 
@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
