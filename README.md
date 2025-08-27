@@ -68,5 +68,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=bibhushansaakha&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+[![Bibhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bibhushansaakha&theme=github-compact)](https://github.com/bibhushansaakha/github-readme-activity-graph)
   
 </div>
