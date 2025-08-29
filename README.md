@@ -3,13 +3,8 @@
 Bibhushan Saakha
 =================
 
-*A Creative Mind paired with an Enthusiastic Soul, I thrive by learning to work and working to learn.* ✨
+I am an experienced strategic thinker with a passion for technology and programming having over ten years of experience in design, development, and project management. I excel in problem-solving and analysis, consistently delivering successful outcomes. 
 
-I have a passion for technology and programming 💻, so I pursue a Computer Engineering Degree at Kathmandu University. I also love art and design 🎨 and try to incorporate them into my work as a UI designer/ Graphic Designer. 
-
-I have always been a critical thinker 🧠. I enjoy problems that require deep thought and analysis. From Chess to a National Record in Blindfolded Cube Solving. 
-
-I am excited to continue learning and creating solutions! 🤩
 <!--
 ## Skills
 
