@@ -52,12 +52,6 @@ Here are some ideas to get you started:
 </table>
 <!--- stats (end) -->
 
-<!--profile visit count-->
-<div align="center">
-  <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br/>
-  <b>— Cory House</b>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bibhushansaakha&style=flat-square&color=blue" alt="Profile Views" />
