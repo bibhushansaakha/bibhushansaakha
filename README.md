@@ -1,47 +1,83 @@
-
-
-Bibhushan Saakha
-=================
-
-I am an experienced strategic thinker with a passion for technology and programming having over ten years of experience in design, development, and project management. I excel in problem-solving and analysis, consistently delivering successful outcomes. 
-
-<!--
-## Skills
-
-- Adobe Illustrator 🎨
-- Adobe Indesign 📐
-- Figma 💻
-- Canva 🎨
-- HTML 🌐
-- CSS 🎨
-- JavaScript 💻
-- Flutter 📱
-- Python 🐍
-
-
-**bibhushansaakha/bibhushansaakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hi, I'm Bibhushan Saakha 👋</h1>
 
 <p align="center">
-
-<!--- stats (end) -->
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibhushansaakha&style=flat-square&color=blue" alt="Profile Views" />
+  UI/UX & Frontend Developer at <strong>tigg</strong> · Design enthusiast · Computer Engineer from Kathmandu University
 </p>
 
-[![Bibhu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bibhushansaakha&theme=github-compact)](https://github.com/bibhushansaakha/github-readme-activity-graph)
-  
-</div>
+---
+
+## 🔍 About me
+
+- 💻 Building usable interfaces and frontend systems for accounting software at **tigg**
+- 🎨 Blending design thinking with engineering to ship polished, reliable products
+- 🌱 Exploring deeper into **design systems**, **performance-focused frontend**, and developer experience
+- 📍 Based in Kathmandu, Nepal
+
+---
+
+## 🛠 Tech & tools
+
+**Languages & frameworks**
+
+- JavaScript / TypeScript · React · Next.js  
+- HTML · CSS · Tailwind CSS  
+- Python · Flutter
+
+**Design & workflow**
+
+- Figma · Adobe Illustrator · Canva  
+- Git · GitHub · Notion · Google Workspace
+
+---
+
+## 📈 GitHub analytics
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=bibhushansaakha&theme=default" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bibhushansaakha&show_icons=true&theme=default"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhushansaakha&layout=compact&theme=default"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=bibhushansaakha&theme=github-compact"
+    alt="Activity Graph"
+  />
+</p>
+
+---
+
+## 📂 Featured work
+
+- 🖼 UI explorations and component libraries in Figma  
+- 🌐 Frontend projects focused on UX, accessibility, and clean architecture  
+
+> Check pinned repositories below for selected work.
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://saakha.framer.website" target="_blank">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/bibhushansaakha" target="_blank">LinkedIn</a> •
+  <a href="mailto:bibhushansaakha@gmail.com" target="_blank">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bibhushansaakha&style=flat-square&color=blue" alt="Profile views" />
+</p>
