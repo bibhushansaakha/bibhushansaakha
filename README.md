@@ -1,83 +1,39 @@
-<h1 align="center">Hi, I'm Bibhushan Saakha 👋</h1>
+<div align="center">
 
-<p align="center">
-  UI/UX & Frontend Developer at <strong>tigg</strong> · Design enthusiast · Computer Engineer from Kathmandu University
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:4CA1AF&height=180&section=header&text=Bibhushan%20Saakha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer+%26+Frontend+Engineer;Currently+at+Tigg;Kathmandu+University+%E2%80%94+Computer+Engineering" alt="Typing SVG" />
 
-## 🔍 About me
+</div>
 
-- 💻 Building usable interfaces and frontend systems for accounting software at **tigg**
-- 🎨 Blending design thinking with engineering to ship polished, reliable products
-- 🌱 Exploring deeper into **design systems**, **performance-focused frontend**, and developer experience
-- 📍 Based in Kathmandu, Nepal
+I design in Figma and build in code myself, rather than treating design and engineering as separate lanes. I'd rather fully think through a flow before touching a single screen.
 
----
+**Right now**
+- 🧱 Coding and hosting my personal site from scratch at [bibhushansaakha.com.np](https://bibhushansaakha.com.np)
+- 🎤 Mentoring at hackathons and AI/dev bootcamps around Kathmandu
+- 🧩 Retraining for Nepal's national blindfolded-cubing records
 
-## 🛠 Tech & tools
+<div align="center">
 
-**Languages & frameworks**
+### Stack
 
-- JavaScript / TypeScript · React · Next.js  
-- HTML · CSS · Tailwind CSS  
-- Python · Flutter
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma,html,css,git,github,nodejs,flutter,python&theme=light" />
 
-**Design & workflow**
+### GitHub Stats
 
-- Figma · Adobe Illustrator · Canva  
-- Git · GitHub · Notion · Google Workspace
+<img src="https://github-readme-stats.vercel.app/api?username=bibhushansaakha&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhushansaakha&layout=compact&theme=graywhite&hide_border=true&hide_title=true" width="48%" />
 
----
+<img src="https://streak-stats.demolab.com/?user=bibhushansaakha&theme=graywhite&hide_border=true" width="60%" />
 
-## 📈 GitHub analytics
+<img src="https://github-profile-trophy.vercel.app/?username=bibhushansaakha&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=bibhushansaakha&theme=default" alt="GitHub Streak" />
-  </a>
-</p>
+### Find me elsewhere
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bibhushansaakha&show_icons=true&theme=default"
-    alt="GitHub Stats"
-  />
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bibhushansaakha.com.np)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bibhushansaakha)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibhushansaakha@gmail.com)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhushansaakha&layout=compact&theme=default"
-    alt="Top Languages"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:2C3E50&height=100&section=footer" width="100%"/>
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=bibhushansaakha&theme=github-compact"
-    alt="Activity Graph"
-  />
-</p>
-
----
-
-## 📂 Featured work
-
-- 🖼 UI explorations and component libraries in Figma  
-- 🌐 Frontend projects focused on UX, accessibility, and clean architecture  
-
-> Check pinned repositories below for selected work.
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://saakha.framer.website" target="_blank">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/bibhushansaakha" target="_blank">LinkedIn</a> •
-  <a href="mailto:bibhushansaakha@gmail.com" target="_blank">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bibhushansaakha&style=flat-square&color=blue" alt="Profile views" />
-</p>
+</div>
