@@ -8,10 +8,6 @@
 
 I design in Figma and build in code myself, rather than treating design and engineering as separate lanes. I'd rather fully think through a flow before touching a single screen.
 
-**Right now**
-- 🧱 Coding and hosting my personal site from scratch at [bibhushansaakha.com.np](https://bibhushansaakha.com.np)
-- 🎤 Mentoring at hackathons and AI/dev bootcamps around Kathmandu
-- 🧩 Retraining for Nepal's national blindfolded-cubing records
 
 <div align="center">
 
@@ -21,12 +17,9 @@ I design in Figma and build in code myself, rather than treating design and engi
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bibhushansaakha&show_icons=true&theme=graywhite&hide_border=true&hide_title=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bibhushansaakha&layout=compact&theme=graywhite&hide_border=true&hide_title=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com/?user=bibhushansaakha&theme=graywhite&hide_border=true" width="60%" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=bibhushansaakha&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
 
 ### Find me elsewhere
 
